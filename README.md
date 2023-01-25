@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @Tsatsch living in Narnia<br>👀 I’m interested in exploring how far Python can bring me<br>🌱 I’m currently learning Solidity for smart contracts development<br>💞️ I’m looking to collaborate on bioinformatics, smart contracts development and DevOps-related projects<br>📫 How to reach me: The connection isn't great in Narnia, but give it a try ;)
-
+## Website:
+Checkout my resume website [alexsemenov.de](https://www.alexsemenov.de/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-semenov-8630581bb) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ferrozinator21) 
